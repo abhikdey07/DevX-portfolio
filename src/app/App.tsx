@@ -60,7 +60,7 @@ export default function App() {
     {
       title: 'Web Design & Development',
       image: '/nsdc.jpg',
-      organization: 'NSDC / Skill India (April 2026)'
+      organization: 'NSDC / Skill India (March 2026)'
     }
     
   ];
