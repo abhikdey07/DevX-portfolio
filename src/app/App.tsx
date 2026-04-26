@@ -32,34 +32,34 @@ export default function App() {
   const certifications = [
    {
   title: 'Web Development Internship Certificate ',
-  image: '/src/imports/skillcraft.jpg',
+  image: '/skillcraft.jpg',
   organization: 'SkillCraft Technology (March 2026 - April 2026)'
 },
 {
       title: 'Hack Zenith 2025 - Top 10 Finalist',
-      image: '/src/imports/hack.jpg',
+      image: '/hack.jpg',
       organization: 'Google Developer Groups (2026)'
     },
   
     {
       title: 'Full Stack Development with MERN',
-      image: '/src/imports/mern.jpg',
+      image: '/mern.jpg',
       organization: 'NASSCOM Foundation / thingQbator (March 2026)'
     },
     {
       title: 'Artificial Intelligence',
-      image: '/src/imports/ai.jpg',
+      image: '/ai.jpg',
       organization: 'Infosys Springboard (April 2026)'
     },
     
     {
       title: 'HTML & CSS Certificate of Excellence',
-      image: '/src/imports/excellence.jpg',
+      image: '/excellence.jpg',
       organization: 'NASSCOM Foundation / thingQbator (March 2026)'
     },
     {
       title: 'Web Design & Development',
-      image: '/src/imports/nsdc.jpg',
+      image: '/nsdc.jpg',
       organization: 'NSDC / Skill India (April 2026)'
     }
     
@@ -365,7 +365,7 @@ export default function App() {
                 {/* Image Container */}
                 <div className="relative w-72 h-96 sm:w-80 sm:h-[450px] rounded-3xl overflow-hidden border-4 border-white shadow-2xl shadow-indigo-200/50 transform hover:scale-105 transition-transform duration-500 z-10">
                   <img
-                    src="/src/imports/WhatsApp_Image_2026-04-24_at_8.00.26_PM.jpg"
+                    src="/profile.jpg"
                     alt="Abhik Dey"
                     className="w-full h-full object-cover"
                   />
