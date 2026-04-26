@@ -448,7 +448,6 @@ export default function App() {
       B.Tech in Computer Science and Engineering
     </h3>
     <p className="text-gray-600">Dr. B.C. Roy Engineering College</p>
-    <p className="text-sm mt-2">🎓 CGPA: 7.9/10</p>
     <p className="text-gray-500 mt-2">
       Currently pursuing B.Tech under MAKAUT (2023 - 2027).
     </p>
