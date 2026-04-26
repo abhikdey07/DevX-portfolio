@@ -71,7 +71,7 @@ export default function App() {
       description: 'Developed a secure online exam proctoring system using React and TypeScript, featuring real-time webcam monitoring, tab-switch detection, and anti-cheating mechanisms to ensure fair and reliable assessments.',
       tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Web APIs'],
       liveLink: 'https://dev-x-portfolio.vercel.app/',
-      codeLink: 'https://github.com/abhikdey07/DevX-portfolio',
+      codeLink: 'https://github.com/abhikdey07/Online-Exam-System',
       color: '#FF6B6B'
     },
    {
@@ -79,7 +79,7 @@ export default function App() {
   description: 'Designed and developed a modern, responsive personal portfolio website to showcase projects, skills, certifications, and experience with smooth navigation and interactive UI.',
   tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS'],
   liveLink: 'https://dev-x-portfolio.vercel.app/',   
-  codeLink: 'https://github.com/abhikdey07/portfolio', 
+  codeLink: 'https://github.com/abhikdey07/DevX-portfolio', 
   color: '#8B5CF6'
 },
     {
