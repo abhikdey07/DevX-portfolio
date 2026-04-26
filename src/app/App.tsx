@@ -468,7 +468,7 @@ export default function App() {
 
   {/* 10th */}
   <div className="bg-white border shadow-lg rounded-2xl p-6 scroll-animate fade-up hover:scale-105 transition duration-300">
-    <h3 className="text-xl font-semibold text-gray-700">
+    <h3 className="text-xl font-semibold text-blue-500">
       Secondary (10th)
     </h3>
     <p className="text-gray-600">Joygaria High School</p>
