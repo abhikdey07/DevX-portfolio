@@ -70,8 +70,8 @@ export default function App() {
       title: 'Online Exam Proctoring System',
       description: 'Developed a secure online exam proctoring system using React and TypeScript, featuring real-time webcam monitoring, tab-switch detection, and anti-cheating mechanisms to ensure fair and reliable assessments.',
       tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS', 'Web APIs'],
-      liveLink: 'https://online-exam-system-one.vercel.app/',
-      codeLink: 'https://github.com/abhikdey07/Online-Exam-System',
+      liveLink: 'https://dev-x-portfolio.vercel.app/',
+      codeLink: 'https://github.com/abhikdey07/DevX-portfolio',
       color: '#FF6B6B'
     },
    {
