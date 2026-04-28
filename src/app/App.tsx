@@ -312,6 +312,15 @@ export default function App() {
                 >
                   Get in Touch
                 </button>
+                <a
+  href="/resume.pdf"
+  target="_blank"
+  className="px-8 py-4 bg-white text-indigo-600 rounded-xl font-semibold border-2 border-indigo-200 hover:border-indigo-300"
+>
+  View CV 📄
+</a>
+
+
               </div>
 
               {/* Social Links */}
