@@ -36,6 +36,11 @@ export default function App() {
   organization: 'SkillCraft Technology (March 2026 - April 2026)'
 },
 {
+  title: 'TCS iON Career Edge - Young Professional Certificate',
+  image: '/tcs.jpg',
+  organization: 'TCS iON (April 2026 - May 2026)'
+},
+{
       title: 'Hack Zenith 2025 - Top 10 Finalist',
       image: '/hack.jpg',
       organization: 'Google Developer Groups (2026)'
